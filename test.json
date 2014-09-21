@@ -1,0 +1,4 @@
+[{"NAME":"Alan","AGE":12,"COLOR":"blue","MESG":["hi","how"]},
+{"NAME":"Shan","AGE":13,"COLOR":"green\tblue","MESG":["r", "u"]},
+{"NAME":"John","AGE":45,"COLOR":"orange","MESG":["hi","how"]},
+{"NAME":"Minna","AGE":27,"COLOR":"teal","MESG":["r", "u"]}]

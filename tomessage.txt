@@ -1,0 +1,1 @@
+{"message":"Sep  8 00:00:00 mailusrhubprd01.lss.emc.com sm-mta[13881]: r88400Wd013881: to=<jacob.brand+emc.com@rshield.local>, delay=00:00:00, mailer=dsmtp, pri=38700, stat=queued\r","@version":"1","@timestamp":"2014-03-14T20:04:43.414+05:30","type":"syslog","host":"ubuntu","path":"/home/naveen/LogStash/input.txt","tags":["syslog","grokked","to"]}
